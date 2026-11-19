@@ -1,7 +1,7 @@
 # SolventRegression
 A tool for regression analysis of solvent effects on chemical processes.
 
-Run the python script with the .csv file solvent_descriptors.csv in the same directory
+Run the python script with solvent_descriptors.csv in the same directory
 
 The input file should contain thee columns : Solvent ID, Solvent Name, log k
 The only other compulsory input is the value for deltaN
